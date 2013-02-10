@@ -5,5 +5,6 @@
     LuaJit:   2.19s
     Haskell:  8.97s
     Lua:     22.87s
+    Ruby:    22.13s
     PyPy:    30.68s
     Python:  73.57s
