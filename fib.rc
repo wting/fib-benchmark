@@ -1,0 +1,10 @@
+fn fib(n: int) -> int {
+    if n < 2 {
+        return 1;
+    }
+    fib(n-2) + fib(n-1)
+}
+
+fn main() {
+    io::println(fmt!("%d", fib(40)));
+}
