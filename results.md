@@ -1,0 +1,9 @@
+    C:        0.38s
+    Java:     0.55s
+    Go:       0.90s
+    Rust:     1.29s
+    LuaJit:   2.19s
+    Haskell:  8.97s
+    Lua:     22.87s
+    PyPy:    30.68s
+    Python:  73.57s
