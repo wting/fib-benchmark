@@ -2,10 +2,10 @@
     Java:      0.55s
     Go:        0.90s
     Rust:      1.29s
-    LuaJit:    2.19s
+    LuaJit:    2.17s
     Haskell:   8.97s
     PyPy:     10.06s
-    Lua:      22.87s
+    Lua:      21.18s
     Ruby:     22.13s
     Python2:  43.88s
     Python3:  66.28s
