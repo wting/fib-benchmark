@@ -3,7 +3,7 @@
     Go:             0.90s
     Rust:           1.29s
     LuaJit:         2.17s
-    Haskell:        8.97s
+    Haskell:        2.21s
     PyPy:          10.06s
     Lua:           21.18s
     Ruby 1.9.3:    22.13s
