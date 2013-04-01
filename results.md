@@ -6,6 +6,7 @@
     Rust:           1.29s
     Haskell:        1.32s
     LuaJit:         2.17s
+    Clojure:        5.06s
     PyPy:          10.06s
     Lua:           21.18s
     Ruby 1.9.3:    22.13s
