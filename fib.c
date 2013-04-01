@@ -1,3 +1,4 @@
+// gcc -O2 fib.c
 #include <stdio.h>
 
 int fib(n) {
