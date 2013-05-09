@@ -1,4 +1,4 @@
-# Performance
+# Recursive Performance
 
     C (gcc 4.7.2):              0.38s
     Java 1.7.0:                 0.55s
@@ -13,6 +13,7 @@
     Ruby 2.0.0:                 22.13s
     Python 2.7.3:               43.88s
     Python 3.3.0:               66.28s
+    Perl 5.16:                 124.21s
 
 # Test Machine
 
