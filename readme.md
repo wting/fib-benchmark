@@ -1,4 +1,4 @@
-# Recursive Performance
+# Recursive Performance (n = 40)
 
     C (gcc 4.7.2):              0.38s
     Java 1.7.0:                 0.55s
@@ -14,6 +14,14 @@
     Python 2.7.3:               43.88s
     Python 3.3.0:               66.28s
     Perl 5.16:                 124.21s
+
+# Iterative Performance (n = 1000)
+
+    C (gcc 4.7.2):              0.00s
+    Perl 5.16:                  0.00s
+    Python 2.7.3:               0.02s
+    Python 3.3.0:               0.04s
+    PyPy 2.0.0:                 0.16s
 
 # Test Machine
 

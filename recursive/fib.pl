@@ -1,5 +1,3 @@
-#!/usr/bin/env perl
-
 sub fib {
 	if (@_[0] < 2) {
 		return 1;
